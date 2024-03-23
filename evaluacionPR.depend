@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1711175000 source:c:\users\allan\documents\tr_bl4cknight\evaluacionpr\src\abono.cpp
+	"Abono.h"
+
+1711175000 c:\users\allan\documents\tr_bl4cknight\evaluacionpr\include\abono.h
+	"Fecha.h"
+	<iostream>
+
+1711175000 c:\users\allan\documents\tr_bl4cknight\evaluacionpr\include\fecha.h
+	<iostream>
+
+1711175000 source:c:\users\allan\documents\tr_bl4cknight\evaluacionpr\src\cliente.cpp
+	"Cliente.h"
+
+1711175000 c:\users\allan\documents\tr_bl4cknight\evaluacionpr\include\cliente.h
+	<iostream>
+
+1711175000 source:c:\users\allan\documents\tr_bl4cknight\evaluacionpr\src\cuenta.cpp
+	"Cuenta.h"
+
+1711175000 c:\users\allan\documents\tr_bl4cknight\evaluacionpr\include\cuenta.h
+	"Cliente.h"
+	"Abono.h"
+	<string>
+	<iostream>
+
+1711175000 source:c:\users\allan\documents\tr_bl4cknight\evaluacionpr\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
